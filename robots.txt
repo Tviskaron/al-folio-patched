@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tviskaron.github.io/al-folio-patched/sitemap.xml
+Sitemap: https://tviskaron.github.io/al-folio-patched//sitemap.xml
